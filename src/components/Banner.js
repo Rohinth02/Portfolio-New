@@ -61,7 +61,7 @@ export const Banner = () => {
                   <p style={{color:"whitesmoke"}}>
                     I am currently studying Information Technology with a strong interest in web development, especially web design. I have honed my skills in full-stack development, and I am passionate about creating user-friendly, responsive websites that combine both design and functionality. My focus is on delivering seamless web experiences while constantly expanding my knowledge in the latest web technologies.
                   </p>
-                  <button onClick={() => window.location.href = 'https://tomato-odille-67.tiiny.site'}>
+                  <button onClick={() => window.location.href = 'https://amethyst-ardyth-97.tiiny.site'}>
   Resume <ArrowRightCircle size={25} />
 </button>
                 </div>}

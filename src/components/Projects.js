@@ -12,6 +12,9 @@ import logo16 from "../assets/img/logo6.png";
 import logo17 from "../assets/img/logo7.png";
 import logo18 from "../assets/img/logo8.png";
 import logo19 from "../assets/img/logo9.png";
+import logo20 from "../assets/img/logo20.png";
+import logo21 from "../assets/img/logo21.png";
+
 import logo10 from "../assets/img/logo10.png";
 import logo111 from "../assets/img/logo111.png";
 import logo112 from "../assets/img/logo112.png";
@@ -29,30 +32,21 @@ export const Projects = () => {
       link: "https://comfort-home-host.onrender.com/" 
     },
     {
-      title: "DamFlow Maintenanc",
-      description: "Ensuring optimal dam performance through innovative design, efficient development, and proactive maintenance solutions",
+      title: "Iphone",
+      description: "Creating dynamic and elegant spaces that elevate modern living, merging artistic imagination with technical skill to transform your ideas into reality.",
       imgUrl: projImg2,
+      link: "https://apple-website-15pro-30h8.onrender.com/" 
+
+
     },
     {
-      title: "Irctc Clone",
-      description: "Replicating the IRCTC platform with innovative design and seamless development for a user-friendly, efficient ticketing experience",
+      title: "First Project",
+      description: "Designing a polished home landing page with modern visuals and smooth development, delivering an engaging, intuitive, and seamless user experience.",
       imgUrl: projImg3,
+      link:"https://home-landing.onrender.com/"
     },
-    {
-      title: "HR Management Portal",
-      description: "Design & Development",
-      imgUrl: projImg1,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
-    },
+
+ 
   ];
   
 
@@ -142,12 +136,12 @@ export const Projects = () => {
       <p className="logo-header">Others</p>
       <div className="logo-grid">
         <div className="logo-item">
-          <img src={logo18} alt="CSS Logo" className="circular-logo" />
-          <p>JAVA</p>
+          <img src={logo21} alt="CSS Logo" className="circular-logo" />
+          <p>THREE JS</p>
         </div>
         <div className="logo-item">
-          <img src={logo19} alt="JavaScript Logo" className="circular-logo" />
-          <p>SQL</p>
+          <img src={logo20} alt="JavaScript Logo" className="circular-logo" />
+          <p>TAILWIND CSS</p>
         </div>
         <div className="logo-item">
           <img src={logo17} alt="HTML Logo" className="circular-logo" />
